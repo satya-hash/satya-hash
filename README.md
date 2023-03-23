@@ -1,10 +1,10 @@
-## 👋Hey there
+## 👋Hola Amigos,
 
-# I'm Pitani Satya Surendra🤓,
+# I'm Satya Surendra🤓,
 
-### Driven and Ambitious Student Seeking Opportunities to Gain Experience and Expand Skillset | React Developer | CSE Student @ Andhra University
+### React Developer | CSE Student @ Andhra University
 
-#### A computer science student at Andhra University. You might know me as the guy who's always tinkering away on his laptop, but what you might not know is that I have a serious passion for front-end development and problem-solving.
+#### A computer science student at Andhra University.I think you might know me as the guy who's always tinkering away on his laptop, but what you might not know is that I have a serious passion for front-end development and problem-solving.
 
 ## 🌐Socials
 
