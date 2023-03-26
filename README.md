@@ -6,6 +6,8 @@
 
 #### A computer science student at Andhra University.I think you might know me as the guy who's always tinkering away on his laptop, but what you might not know is that I have a serious passion for front-end development and problem-solving.
 
+#### Currently,I am learning the node js.
+
 ## 🌐Socials
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satya-surendra/)
