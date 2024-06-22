@@ -8,7 +8,7 @@
 
 #### Currently,I am learning the node js.
 
-### [Portfolio](https://webfoliohash.netlify.app/)
+### [Portfolio](https://satya-hash.github.io/webfolio/)
 
 ## 🌐Socials
 
