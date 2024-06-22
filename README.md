@@ -2,13 +2,13 @@
 
 # I'm Satya Surendra🤓,
 
-### React Developer | CSE Student @ Andhra University
+### Member Technical @ ADP Hyderabad | React Developer | Passionate Web Designer and Developer
 
-#### A computer science student at Andhra University.I think you might know me as the guy who's always tinkering away on his laptop, but what you might not know is that I have a serious passion for front-end development and problem-solving.
+#### I'm Pitani Satya Surendra, a dedicated computer science professional with a passion for front-end development and problem-solving. I graduated with a Bachelor of Technology in Computer Science and Engineering from Andhra University in 2023. In November, I joined ADP as a Member Technical, eager to make a substantial impact in the tech industry as a software engineer.
 
 #### Currently,I am learning the node js.
 
-### [Portfolio](https://satya-hash.github.io/webfolio/)
+### [See my work](https://satya-hash.github.io/webfolio/)
 
 ## 🌐Socials
 
